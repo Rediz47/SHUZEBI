@@ -1,0 +1,264 @@
+{
+    "nav": {
+        "brandName": "SHUZEBI",
+        "shop": "Shop",
+        "brands": "Brands",
+        "support": "Support",
+        "search": "Search",
+        "currency": "Currency",
+        "language": "Language",
+        "home": "Home",
+        "shopAll": "Shop All",
+        "wishlist": "Wishlist",
+        "navigation": "Navigation",
+        "exploreBrands": "Explore Brands",
+        "login": "Login to Aether",
+        "featuredBrands": "Featured Brands",
+        "shopAllBrands": "Shop All Brands",
+        "viewCollection": "View Collection"
+    },
+    "search": {
+        "placeholder": "Search kicks, brands, gear...",
+        "noResults": "No results found",
+        "tryAnother": "Try searching for something else, like \"Jordan\" or \"Running\".",
+        "popular": "Popular Searches"
+    },
+    "categories": {
+        "all": "All",
+        "basketball": "Basketball",
+        "lifestyle": "Lifestyle",
+        "running": "Running"
+    },
+    "hero": {
+        "subtitle": "Discover the latest trends",
+        "explore": "Explore"
+    },
+    "homePage": {
+        "trendingBg": "TRENDING",
+        "curatedSelection": "Curated Selection",
+        "trendingTitle": "Trending Now",
+        "trendingDesc": "The silhouettes currently dominating street culture.",
+        "viewFullCollection": "View Full Collection",
+        "curatedCollections": "Curated Collections",
+        "shopNow": "Shop Now"
+    },
+    "marquee": {
+        "freeShipping": "Free Worldwide Shipping on Orders Over $250",
+        "newDrops": "New Drops Every Friday",
+        "authenticity": "Authenticity Guaranteed"
+    },
+    "footer": {
+        "description": "Elevating sneaker culture through curated premium footwear and exceptional digital experiences.",
+        "shop": "Shop",
+        "allProducts": "All Products",
+        "newArrivals": "New Arrivals",
+        "brands": "Brands",
+        "support": "Support",
+        "helpCenter": "Help Center",
+        "shippingReturns": "Shipping & Returns",
+        "contactUs": "Contact Us",
+        "company": "Company",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "cookiePolicy": "Cookie Policy",
+        "rightsReserved": "All rights reserved."
+    },
+    "newsletter": {
+        "title": "Never Miss a Drop.",
+        "description": "Join the SHUZEBI community. Get early access to new releases, restocks, and exclusive events directly in your inbox.",
+        "placeholder": "Enter your email address",
+        "subscribe": "Subscribe",
+        "disclaimer": "By subscribing you agree to our Terms & Conditions and Privacy Policy."
+    },
+    "features": {
+        "authentic": {
+            "title": "100% Authentic",
+            "desc": "Every item is manually verified by our expert authenticators."
+        },
+        "shipping": {
+            "title": "Global Shipping",
+            "desc": "Fast, tracked delivery to over 120 countries worldwide."
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "desc": "Changed your mind? Return within 30 days, no questions asked."
+        },
+        "support": {
+            "title": "24/7 Support",
+            "desc": "Our sneaker specialists are here to help, day or night."
+        }
+    },
+    "collection": {
+        "title": "Shop by Category",
+        "subtitle": "Define your style with our curated collections.",
+        "viewAll": "View All",
+        "basketball": {
+            "subtitle": "Court Kings",
+            "desc": "Performance engineered for flight."
+        },
+        "lifestyle": {
+            "subtitle": "Street Ready",
+            "desc": "Essentials for your daily rotation."
+        },
+        "running": {
+            "subtitle": "Velocity",
+            "desc": "Push your limits with advanced tech."
+        },
+        "shopCollection": "Shop Collection",
+        "viewAllCategories": "View All Categories"
+    },
+    "brandGrid": {
+        "title": "Shop by Brand"
+    },
+    "community": {
+        "title": "The SHUZEBI World",
+        "subtitle": "Join the movement. Tag @SHUZEBI to be featured.",
+        "follow": "Follow on Instagram",
+        "shopLook": "Shop Look"
+    },
+    "grail": {
+        "systemAnalysis": "System Analysis: OK",
+        "future": "FUTURE",
+        "ready": "READY",
+        "descPart1": "Integrated with",
+        "descPart2": "adaptive lacing technology. An anomaly in space-time, crafted for the pioneers of the next century.",
+        "acquire": "Acquire Pair",
+        "valuation": "Valuation Status",
+        "neuralCore": "Neural Core",
+        "stability": "Stability",
+        "optimized": "OPTIMIZED"
+    },
+    "shop": {
+        "title": "Shop Collection",
+        "results": "Results",
+        "filters": "Filters",
+        "sort": {
+            "newest": "Newest Arrivals",
+            "price_asc": "Price: Low to High",
+            "price_desc": "Price: High to Low"
+        },
+        "categoryTitle": "Category",
+        "priceRangeTitle": "Price Range",
+        "brandsTitle": "Brands",
+        "colorTitle": "Color",
+        "sizeTitle": "Size (EU)",
+        "noProducts": "No products found",
+        "noProductsDesc": "We couldn't find any matches for your filters.",
+        "clearFilters": "Clear all filters",
+        "showResults": "Show Results"
+    },
+    "product": {
+        "back": "Back",
+        "addToBag": "Add to Bag",
+        "added": "Added to Bag",
+        "selectSize": "Select Size (EU)",
+        "sizeGuide": "Size Guide",
+        "availableColors": "Available Colors",
+        "authenticity": "Authenticity Guaranteed",
+        "freeShipping": "Free Shipping",
+        "related": "You May Also Like",
+        "selectSizeError": "Please select a size to continue"
+    },
+    "cart": {
+        "title": "Shopping Bag",
+        "empty": "Your bag is empty.",
+        "subtotal": "Subtotal",
+        "checkout": "Checkout"
+    },
+    "auth": {
+        "welcomeBack": "Welcome Back",
+        "join": "Join SHUZEBI",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "password": "Password",
+        "forgotPassword": "Forgot Password?",
+        "signIn": "Sign In",
+        "createAccount": "Create Account",
+        "continueGithub": "Continue with GitHub",
+        "noAccount": "Don't have an account?",
+        "hasAccount": "Already have an account?",
+        "signUp": "Sign Up",
+        "logIn": "Log In",
+        "footer": "Protected by SHUZEBI Secure. Subject to Privacy Policy."
+    },
+    "wishlist": {
+        "title": "Your Wishlist",
+        "itemsSaved": "Items Saved",
+        "emptyTitle": "Nothing here yet",
+        "emptyDesc": "Save items you love to your wishlist so you can easily find them later.",
+        "startShopping": "Start Shopping"
+    },
+    "faq": {
+        "title": "Support Center",
+        "subtitle": "Everything you need to know about SHUZEBI.",
+        "faqTitle": "Frequently Asked Questions",
+        "contactTitle": "Still have questions?",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send Message",
+        "placeholderEmail": "you@example.com",
+        "placeholderMessage": "How can we help?",
+        "questions": {
+            "q1": "How do I know my size?",
+            "a1": "We use standard EU sizing for all our sneakers. On every product page, you'll find a detailed size guide. If you're in between sizes, we recommend sizing up for most models.",
+            "q2": "Is shipping really free?",
+            "a2": "Yes! We offer free worldwide shipping on all orders over $250. For orders under that amount, a flat rate applies depending on your region.",
+            "q3": "Are these shoes authentic?",
+            "a3": "100%. Every single pair goes through a rigorous multi-step authentication process by our expert team before it's shipped to you. We have a zero-tolerance policy for fakes.",
+            "q4": "Who built this website?",
+            "a4": "SHUZEBI was designed and engineered by Luka, a 16-year-old frontend developer. It showcases modern web technologies like React, Framer Motion, and AI integration.",
+            "q5": "What is your return policy?",
+            "a5": "You have 30 days from delivery to return your item. The item must be unworn, with all original tags and packaging intact."
+        }
+    },
+    "checkout": {
+        "steps": {
+            "information": "Information",
+            "shipping": "Shipping",
+            "payment": "Payment"
+        },
+        "success": {
+            "title": "Order Confirmed!",
+            "message": "Thank you for your purchase. Since this is a portfolio demo, no actual money was charged. You're officially part of the SHUZEBI family.",
+            "orderNumber": "Order Number",
+            "returnHome": "Return Home"
+        },
+        "buttons": {
+            "back": "Back",
+            "continue": "Continue",
+            "processing": "Processing...",
+            "pay": "Pay"
+        },
+        "information": {
+            "contactTitle": "Contact Information",
+            "emailPlaceholder": "Email Address",
+            "shippingTitle": "Shipping Address",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "address": "Address",
+            "city": "City",
+            "postalCode": "Postal Code"
+        },
+        "shipping": {
+            "title": "Shipping Method",
+            "standard": "Standard International",
+            "standardDuration": "4-10 Business Days",
+            "express": "Express Air",
+            "expressDuration": "1-3 Business Days"
+        },
+        "payment": {
+            "title": "Payment",
+            "secureMessage": "This is a secure 256-bit SSL encrypted payment. For this demo, no real cards are processed.",
+            "creditCard": "Credit Card",
+            "cardHolder": "Cardholder Name"
+        },
+        "summary": {
+            "title": "Order Summary",
+            "size": "Size",
+            "subtotal": "Subtotal",
+            "shipping": "Shipping",
+            "calculatedNext": "Calculated at next step",
+            "total": "Total"
+        }
+    }
+}
